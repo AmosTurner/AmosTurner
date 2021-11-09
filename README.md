@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Amos
 - 👀 I’m interested in Java, software development, and web development
 - 🌱 I’m currently learning Java
-- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/amos-turner/
+- 📫 How to reach me: https://www.linkedin.com/in/amos-turner/
