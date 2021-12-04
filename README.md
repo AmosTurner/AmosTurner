@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Amos. Currently, I am in my second year in the Software Development & Network Endgineering program at Sheridan College.
+- 👋 Hi, I’m Amos. Currently, I am in my second year in the Software Development & Network Engineering program at Sheridan College.
 - 👀 I’m interested in Java, software development, and web development
