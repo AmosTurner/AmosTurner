@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Amos. Currently, I am in my second year in the Software Development & Network Engineering program at Sheridan College.
 - 👀 I’m interested in Java, software development, and web development
+- Proficient in building dynamic data-driven enterprise scale web applications
