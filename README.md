@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Amos. I am a second year student in the Software Development and Network Engineering program at Sheridan College.
-- 👀 I’m interested in software development, and web development
-- Proficient in building dynamic data-driven enterprise scale web applications
-- Languages: Java, C#, C, Python, Kotlin
+Technical Skills:
+• Programming Languages: Java, C, C#, Python, Kotlin
+• Operating Systems: Windows, Linux/Unix, Android, MacOS, iOS
+• Databases: Microsoft SQL Server, MongoDB, Oracle SQL Server
+• Web Technologies: HTML5, CSS, JavaScript, PHP, Angular, React, jQuery, Bootstrap
+• Software: NetBeans, IntelliJ, Visual Studio Code, Visual Paradigm, Confluence, Jira, Microsoft Office Suite (Word, Excel, PowerPoint, Outlook, OneNote, Visio, Teams)
